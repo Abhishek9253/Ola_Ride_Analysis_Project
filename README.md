@@ -26,8 +26,8 @@ To analyze ride-booking data from OLA, identify patterns, and create interactive
 - **Successful Bookings**: Identified all completed rides.
 - **Average Ride Distance**: Calculated for each vehicle type to understand efficiency.
 - **Cancellation Insights**:
-1.Total canceled rides (customer and driver).
-2.Reasons for driver cancellations (personal, car issues, etc.).
+- - Total canceled rides (customer and driver).
+- - Reasons for driver cancellations (personal, car issues, etc.).
 - **Top Customers**: Ranked by number of bookings and total spending.
 - **Revenue Trends**: Summarized booking values for successful rides.
 - **Ratings Distribution**: Analyzed by vehicle type for customer and driver performance.
