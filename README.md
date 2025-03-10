@@ -1,6 +1,9 @@
 # OLA Data Analysis and Visualization Project
 This repository showcases a comprehensive data analysis and visualization project based on OLA ride-booking data. The project explores booking patterns, revenue trends, customer and driver behaviors, and cancellation insights using SQL, Power BI, and Excel. It is designed for recruiters, collaborators, and learners interested in data analytics workflows and dashboards.
 
+![image](https://github.com/user-attachments/assets/664603c5-45df-4b7c-8b93-aae5093ec814)
+
+
 ## Objective:
 To analyze ride-booking data from OLA, identify patterns, and create interactive dashboards to present actionable insights into:
 
@@ -26,8 +29,8 @@ To analyze ride-booking data from OLA, identify patterns, and create interactive
 - **Successful Bookings**: Identified all completed rides.
 - **Average Ride Distance**: Calculated for each vehicle type to understand efficiency.
 - **Cancellation Insights**:
-- - Total canceled rides (customer and driver).
-- - Reasons for driver cancellations (personal, car issues, etc.).
+  - Total canceled rides (customer and driver).
+  - Reasons for driver cancellations (personal, car issues, etc.).
 - **Top Customers**: Ranked by number of bookings and total spending.
 - **Revenue Trends**: Summarized booking values for successful rides.
 - **Ratings Distribution**: Analyzed by vehicle type for customer and driver performance.
